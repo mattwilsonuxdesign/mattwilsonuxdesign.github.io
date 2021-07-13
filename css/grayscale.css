@@ -174,7 +174,7 @@
   height: auto;
   min-height: 100vh;
   padding: 15rem 0;
-  background: url('https://lh3.googleusercontent.com/sagBjF5h1MtR7wPUS6TPOJG8uC-kguWHDkwuZ0a-n92_a1MS1LS6vVggdQN_5uCpZMSytyjalUUzbGcJDukxKHyHdRMNlDUdWYrDfKw6qko8NYprI3LNXX_2GGUtc1OaZdFjfvpVtWSE0GEt3uq9YONpfG7pHhNC5p6-WUVMLCsUh9nSsor5Q1UYyi4UkMvxiYSK3wY5mq_3Pru3aOcSKd65rZntDZArhcxCpxQVIqv2_KND10hBZPgmxU4GVzQMM4HHrdQvX8GpSFosZR7jhKYO_ygWrYyoMevHQnIK_GLvIi7y10EWT7OZ2VR3Ni2kQvIQNnkUvDGfcDpRMeI1R6-vkAHQWvEUNbHgS9PdI-ScNJuu9-ddKdNmrmEtrug1mgTJv04-ei1FfxknztcD6TUg48Xy0_voysQ_KX7uL4PvsUS-r2sIBgRke7YXVuk9jOAjNcOO9D7lpXqmxpqSsMRBuABz6vAcfLgniHHfipBNEUK0Ss3Wpz7iWwYBBC7mbQjsXg06KjU0lhiQla-7qy7MZoE-hYluZ5ZDiUuhAB1QDiqitDFkRIhgAqPe0zUS-puGMgfOnwQNnWnyp8JnWo0qq3YgSBsNh_kb1Vc6aSiC9LEVXGm-QiCE5Eq8DuYJKVpX3KYOzq4Mm3ie3I6vWgIwFH8EhPkcM-5Km0mbiib5oqFMEb8ZAyMf_51IqiT5NuHSN3-a8LlBbSUvvTD2ZdQ8=w1440-h794-no?authuser=0');
+  background: url('https://lh3.googleusercontent.com/Dl6Y9j18ymgr9RHxb9HY3GQ3WpNkvkiOXlGtbzHfd2DKpUTAv780HZHun-BFcjMDkFHHSyEfZOcuCYYbw6fThAlGStQmKi79npBWopfd0f7QXsCyRNDhSZRP_vkBRRRcOJoT6QEOppk=w2400');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -631,7 +631,7 @@ header .overlay {
 
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: url('https://lh3.googleusercontent.com/sagBjF5h1MtR7wPUS6TPOJG8uC-kguWHDkwuZ0a-n92_a1MS1LS6vVggdQN_5uCpZMSytyjalUUzbGcJDukxKHyHdRMNlDUdWYrDfKw6qko8NYprI3LNXX_2GGUtc1OaZdFjfvpVtWSE0GEt3uq9YONpfG7pHhNC5p6-WUVMLCsUh9nSsor5Q1UYyi4UkMvxiYSK3wY5mq_3Pru3aOcSKd65rZntDZArhcxCpxQVIqv2_KND10hBZPgmxU4GVzQMM4HHrdQvX8GpSFosZR7jhKYO_ygWrYyoMevHQnIK_GLvIi7y10EWT7OZ2VR3Ni2kQvIQNnkUvDGfcDpRMeI1R6-vkAHQWvEUNbHgS9PdI-ScNJuu9-ddKdNmrmEtrug1mgTJv04-ei1FfxknztcD6TUg48Xy0_voysQ_KX7uL4PvsUS-r2sIBgRke7YXVuk9jOAjNcOO9D7lpXqmxpqSsMRBuABz6vAcfLgniHHfipBNEUK0Ss3Wpz7iWwYBBC7mbQjsXg06KjU0lhiQla-7qy7MZoE-hYluZ5ZDiUuhAB1QDiqitDFkRIhgAqPe0zUS-puGMgfOnwQNnWnyp8JnWo0qq3YgSBsNh_kb1Vc6aSiC9LEVXGm-QiCE5Eq8DuYJKVpX3KYOzq4Mm3ie3I6vWgIwFH8EhPkcM-5Km0mbiib5oqFMEb8ZAyMf_51IqiT5NuHSN3-a8LlBbSUvvTD2ZdQ8=w1440-h794-no?authuser=0') black no-repeat center center scroll;
+    background: url('https://lh3.googleusercontent.com/Dl6Y9j18ymgr9RHxb9HY3GQ3WpNkvkiOXlGtbzHfd2DKpUTAv780HZHun-BFcjMDkFHHSyEfZOcuCYYbw6fThAlGStQmKi79npBWopfd0f7QXsCyRNDhSZRP_vkBRRRcOJoT6QEOppk=w2400') black no-repeat center center scroll;
   }
   header video {
     display: none;
