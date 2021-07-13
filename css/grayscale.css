@@ -174,7 +174,7 @@ m
   height: auto;
   min-height: 100vh;
   padding: 15rem 0;
-  background: url('http://www.simpleimageresizer.com/_uploads/photos/2c82e6ca/websitebackground_50.jpg');
+  background: url('https://tinyurl.com/acpuew9h');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -631,7 +631,7 @@ header .overlay {
 
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: url('http://www.simpleimageresizer.com/_uploads/photos/2c82e6ca/websitebackground_50.jpg') black no-repeat center center scroll;
+    background: url('https://tinyurl.com/acpuew9h') black no-repeat center center scroll;
   }
   header video {
     display: none;
